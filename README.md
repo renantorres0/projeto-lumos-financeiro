@@ -39,4 +39,4 @@ Este projeto consiste em um Dashboard de Saúde Financeira desenvolvido para peq
     ```
 
 ---
-*Desenvolvido como parte do meu Portfólio de Data Analytics.*
+*Aqui está o link caso queira ter uma prévia do Dashboard antes de clonar o repositório: https://projeto-lumos-financeiro.streamlit.app/*
