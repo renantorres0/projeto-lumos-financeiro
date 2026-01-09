@@ -1,0 +1,396 @@
+Data,Tipo,Categoria,Descrição,Valor,Forma_Pagamento,Status
+2025-01-01,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,10030.36,Pix,Realizado
+2025-01-01,Saída,Marketing,Pgto - Dell Computadores,181.32,Cartão Crédito,Realizado
+2025-01-02,Saída,Software/SaaS,Pgto - Limpeza Ltda,1110.8,Cartão Crédito,Realizado
+2025-01-04,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,132.29,Cartão Crédito,Realizado
+2025-01-05,Saída,Folha de Pagamento,Salários Equipe,17874.48,Transferência,Realizado
+2025-01-08,Entrada,Implementação de Projeto,Serviço - TechSolutions,1040.06,Boleto,Realizado
+2025-01-08,Saída,Serviços Terceiros,Pgto - Dell Computadores,423.25,Cartão Crédito,Realizado
+2025-01-09,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,1104.98,Boleto,Realizado
+2025-01-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-01-11,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,11478.42,Boleto,Realizado
+2025-01-12,Saída,Marketing,Pgto - Limpeza Ltda,374.38,Cartão Crédito,Realizado
+2025-01-13,Entrada,Implementação de Projeto,Serviço - Padaria Central,1949.68,Pix,Realizado
+2025-01-14,Entrada,Consultoria Mensal,Serviço - TechSolutions,5861.45,Cartão Crédito,Realizado
+2025-01-15,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,1042.54,Cartão Crédito,Realizado
+2025-01-18,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,1300.82,Cartão Crédito,Realizado
+2025-01-18,Saída,Serviços Terceiros,Pgto - Governo (Impostos),885.74,Cartão Crédito,Pendente
+2025-01-20,Saída,Impostos,DAS Simples Nacional,3471.97,Boleto,Realizado
+2025-01-20,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1123.82,Pix,Realizado
+2025-01-21,Entrada,Implementação de Projeto,Serviço - StartUp X,3485.36,Pix,Realizado
+2025-01-22,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,207.77,Cartão Crédito,Realizado
+2025-01-25,Saída,Serviços Terceiros,Pgto - AWS Services,1349.58,Cartão Crédito,Realizado
+2025-01-26,Entrada,Consultoria Mensal,Serviço - TechSolutions,8119.94,Cartão Crédito,Realizado
+2025-01-27,Saída,Marketing,Pgto - Limpeza Ltda,815.05,Cartão Crédito,Realizado
+2025-01-28,Saída,Software/SaaS,Pgto - AWS Services,455.48,Cartão Crédito,Realizado
+2025-01-28,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,2235.73,Pix,Realizado
+2025-01-29,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,19277.82,Boleto,Realizado
+2025-01-29,Saída,Marketing,Pgto - Google Ads,490.11,Cartão Crédito,Realizado
+2025-01-30,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,3016.82,Cartão Crédito,Realizado
+2025-01-30,Saída,Marketing,Pgto - Dell Computadores,1119.5,Cartão Crédito,Pendente
+2025-01-31,Entrada,Consultoria Mensal,Serviço - TechSolutions,6085.51,Cartão Crédito,Realizado
+2025-01-31,Saída,Serviços Terceiros,Pgto - Dell Computadores,927.25,Cartão Crédito,Realizado
+2025-02-01,Saída,Marketing,Pgto - Google Ads,1003.24,Cartão Crédito,Realizado
+2025-02-04,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,3339.04,Cartão Crédito,Realizado
+2025-02-05,Saída,Folha de Pagamento,Salários Equipe,17918.07,Transferência,Realizado
+2025-02-06,Entrada,Consultoria Mensal,Serviço - StartUp X,1293.18,Pix,Realizado
+2025-02-06,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,490.42,Cartão Crédito,Realizado
+2025-02-07,Entrada,Manutenção Técnica,Serviço - StartUp X,7561.62,Pix,Realizado
+2025-02-08,Saída,Serviços Terceiros,Pgto - Google Ads,242.06,Cartão Crédito,Realizado
+2025-02-09,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,3387.09,Pix,Realizado
+2025-02-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-02-10,Entrada,Manutenção Técnica,Serviço - StartUp X,2180.9,Cartão Crédito,Realizado
+2025-02-11,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,2375.25,Boleto,Pendente
+2025-02-15,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,4845.29,Pix,Realizado
+2025-02-16,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,1983.68,Pix,Pendente
+2025-02-18,Saída,Serviços Terceiros,Pgto - Google Ads,527.98,Cartão Crédito,Realizado
+2025-02-19,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3441.21,Cartão Crédito,Realizado
+2025-02-19,Saída,Software/SaaS,Pgto - AWS Services,961.01,Cartão Crédito,Realizado
+2025-02-20,Saída,Serviços Terceiros,Pgto - AWS Services,1233.11,Cartão Crédito,Realizado
+2025-02-20,Entrada,Manutenção Técnica,Serviço - TechSolutions,6664.87,Boleto,Realizado
+2025-02-20,Saída,Impostos,DAS Simples Nacional,3590.58,Boleto,Realizado
+2025-02-25,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,2412.81,Cartão Crédito,Realizado
+2025-02-26,Saída,Software/SaaS,Pgto - Google Ads,927.17,Cartão Crédito,Realizado
+2025-02-28,Entrada,Consultoria Mensal,Serviço - Padaria Central,3215.96,Cartão Crédito,Realizado
+2025-02-28,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,843.9,Cartão Crédito,Realizado
+2025-03-03,Saída,Serviços Terceiros,Pgto - AWS Services,714.56,Cartão Crédito,Realizado
+2025-03-05,Saída,Folha de Pagamento,Salários Equipe,17614.09,Transferência,Realizado
+2025-03-05,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1510.36,Boleto,Realizado
+2025-03-06,Entrada,Implementação de Projeto,Serviço - Padaria Central,10294.31,Pix,Realizado
+2025-03-06,Saída,Marketing,Pgto - Limpeza Ltda,598.36,Cartão Crédito,Realizado
+2025-03-07,Saída,Software/SaaS,Pgto - Governo (Impostos),124.03,Cartão Crédito,Realizado
+2025-03-07,Entrada,Implementação de Projeto,Serviço - TechSolutions,1141.28,Boleto,Pendente
+2025-03-08,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,2706.7,Boleto,Realizado
+2025-03-08,Saída,Software/SaaS,Pgto - Imobiliária Predial,624.46,Cartão Crédito,Realizado
+2025-03-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-03-10,Entrada,Consultoria Mensal,Serviço - Varejo Bom Preço,1219.55,Cartão Crédito,Realizado
+2025-03-11,Saída,Serviços Terceiros,Pgto - Governo (Impostos),1235.69,Cartão Crédito,Realizado
+2025-03-13,Entrada,Manutenção Técnica,Serviço - StartUp X,1960.46,Boleto,Realizado
+2025-03-13,Saída,Marketing,Pgto - AWS Services,1056.21,Cartão Crédito,Realizado
+2025-03-14,Saída,Marketing,Pgto - Dell Computadores,1240.26,Cartão Crédito,Realizado
+2025-03-15,Entrada,Consultoria Mensal,Serviço - StartUp X,9277.15,Pix,Pendente
+2025-03-16,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,3521.6,Cartão Crédito,Realizado
+2025-03-19,Entrada,Manutenção Técnica,Serviço - TechSolutions,5169.35,Pix,Realizado
+2025-03-20,Saída,Software/SaaS,Pgto - Dell Computadores,547.04,Cartão Crédito,Realizado
+2025-03-20,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,2059.91,Pix,Realizado
+2025-03-20,Saída,Impostos,DAS Simples Nacional,3993.12,Boleto,Realizado
+2025-03-22,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,2195.46,Pix,Realizado
+2025-03-23,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,3046.15,Boleto,Realizado
+2025-03-24,Entrada,Consultoria Mensal,Serviço - StartUp X,1373.52,Boleto,Realizado
+2025-03-26,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,2515.78,Boleto,Realizado
+2025-03-26,Saída,Marketing,Pgto - Google Ads,1481.3,Cartão Crédito,Realizado
+2025-03-27,Entrada,Implementação de Projeto,Serviço - Padaria Central,8147.93,Cartão Crédito,Realizado
+2025-03-28,Saída,Software/SaaS,Pgto - Imobiliária Predial,562.35,Cartão Crédito,Realizado
+2025-03-29,Entrada,Consultoria Mensal,Serviço - StartUp X,3542.2,Cartão Crédito,Realizado
+2025-03-31,Entrada,Implementação de Projeto,Serviço - TechSolutions,2009.41,Pix,Pendente
+2025-03-31,Saída,Marketing,Pgto - Governo (Impostos),1457.83,Cartão Crédito,Realizado
+2025-04-02,Entrada,Implementação de Projeto,Serviço - TechSolutions,4566.38,Cartão Crédito,Realizado
+2025-04-03,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,3963.02,Cartão Crédito,Realizado
+2025-04-03,Saída,Software/SaaS,Pgto - Dell Computadores,1430.58,Cartão Crédito,Realizado
+2025-04-04,Entrada,Implementação de Projeto,Serviço - StartUp X,1557.83,Boleto,Realizado
+2025-04-04,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,604.48,Cartão Crédito,Realizado
+2025-04-05,Saída,Folha de Pagamento,Salários Equipe,18830.65,Transferência,Realizado
+2025-04-05,Entrada,Consultoria Mensal,Serviço - Padaria Central,2589.04,Pix,Realizado
+2025-04-09,Entrada,Implementação de Projeto,Serviço - TechSolutions,1080.16,Pix,Realizado
+2025-04-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-04-10,Entrada,Implementação de Projeto,Serviço - TechSolutions,5153.83,Cartão Crédito,Realizado
+2025-04-11,Entrada,Consultoria Mensal,Serviço - TechSolutions,2607.5,Cartão Crédito,Realizado
+2025-04-15,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,2796.48,Cartão Crédito,Realizado
+2025-04-15,Saída,Software/SaaS,Pgto - Dell Computadores,1329.51,Cartão Crédito,Realizado
+2025-04-16,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3068.45,Cartão Crédito,Realizado
+2025-04-19,Entrada,Consultoria Mensal,Serviço - Padaria Central,1087.62,Boleto,Realizado
+2025-04-19,Saída,Software/SaaS,Pgto - Limpeza Ltda,290.92,Cartão Crédito,Realizado
+2025-04-20,Saída,Impostos,DAS Simples Nacional,4273.29,Boleto,Realizado
+2025-04-20,Saída,Marketing,Pgto - Limpeza Ltda,1116.96,Cartão Crédito,Realizado
+2025-04-21,Saída,Marketing,Pgto - Governo (Impostos),833.04,Cartão Crédito,Realizado
+2025-04-22,Entrada,Consultoria Mensal,Serviço - TechSolutions,6537.22,Boleto,Realizado
+2025-04-23,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,3600.0,Cartão Crédito,Realizado
+2025-04-23,Saída,Software/SaaS,Pgto - Dell Computadores,312.66,Cartão Crédito,Realizado
+2025-04-24,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,7812.92,Pix,Pendente
+2025-04-25,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,6174.39,Pix,Realizado
+2025-04-27,Saída,Serviços Terceiros,Pgto - Google Ads,562.14,Cartão Crédito,Realizado
+2025-04-28,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,4492.19,Cartão Crédito,Realizado
+2025-04-28,Saída,Marketing,Pgto - Imobiliária Predial,1315.62,Cartão Crédito,Realizado
+2025-04-29,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,2388.36,Boleto,Realizado
+2025-04-30,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,306.83,Cartão Crédito,Realizado
+2025-05-02,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,2779.43,Cartão Crédito,Realizado
+2025-05-03,Entrada,Manutenção Técnica,Serviço - TechSolutions,3490.1,Boleto,Realizado
+2025-05-03,Saída,Marketing,Pgto - Dell Computadores,1346.74,Cartão Crédito,Realizado
+2025-05-05,Saída,Folha de Pagamento,Salários Equipe,18781.41,Transferência,Realizado
+2025-05-07,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,7897.2,Cartão Crédito,Pendente
+2025-05-08,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,1322.03,Cartão Crédito,Realizado
+2025-05-09,Entrada,Manutenção Técnica,Serviço - TechSolutions,5917.6,Cartão Crédito,Realizado
+2025-05-10,Saída,Serviços Terceiros,Pgto - Dell Computadores,657.0,Cartão Crédito,Realizado
+2025-05-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-05-14,Entrada,Implementação de Projeto,Serviço - Padaria Central,6471.28,Boleto,Realizado
+2025-05-15,Saída,Software/SaaS,Pgto - Limpeza Ltda,260.77,Cartão Crédito,Realizado
+2025-05-16,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,773.6,Cartão Crédito,Realizado
+2025-05-17,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1433.05,Pix,Realizado
+2025-05-17,Saída,Marketing,Pgto - Google Ads,294.35,Cartão Crédito,Realizado
+2025-05-18,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,3794.99,Cartão Crédito,Realizado
+2025-05-19,Saída,Marketing,Pgto - AWS Services,1123.21,Cartão Crédito,Realizado
+2025-05-20,Saída,Impostos,DAS Simples Nacional,3132.99,Boleto,Realizado
+2025-05-21,Saída,Software/SaaS,Pgto - Dell Computadores,1213.37,Cartão Crédito,Realizado
+2025-05-22,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,6055.31,Boleto,Realizado
+2025-05-24,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,4753.01,Boleto,Realizado
+2025-05-26,Entrada,Manutenção Técnica,Serviço - Padaria Central,3276.95,Cartão Crédito,Realizado
+2025-05-28,Entrada,Consultoria Mensal,Serviço - Padaria Central,5740.0,Boleto,Realizado
+2025-05-29,Entrada,Manutenção Técnica,Serviço - Padaria Central,2120.69,Cartão Crédito,Realizado
+2025-05-29,Saída,Marketing,Pgto - Imobiliária Predial,1099.69,Cartão Crédito,Realizado
+2025-05-30,Entrada,Consultoria Mensal,Serviço - StartUp X,3306.73,Cartão Crédito,Realizado
+2025-05-30,Saída,Marketing,Pgto - AWS Services,420.95,Cartão Crédito,Realizado
+2025-06-03,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1773.79,Cartão Crédito,Realizado
+2025-06-05,Saída,Folha de Pagamento,Salários Equipe,18277.82,Transferência,Realizado
+2025-06-05,Entrada,Consultoria Mensal,Serviço - StartUp X,7170.08,Pix,Realizado
+2025-06-05,Saída,Software/SaaS,Pgto - Google Ads,906.8,Cartão Crédito,Realizado
+2025-06-08,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,13567.52,Cartão Crédito,Realizado
+2025-06-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-06-10,Entrada,Implementação de Projeto,Serviço - TechSolutions,1168.95,Pix,Realizado
+2025-06-11,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,3312.65,Boleto,Realizado
+2025-06-13,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,8316.91,Cartão Crédito,Realizado
+2025-06-13,Saída,Marketing,Pgto - Imobiliária Predial,536.06,Cartão Crédito,Realizado
+2025-06-14,Entrada,Consultoria Mensal,Serviço - TechSolutions,4267.8,Pix,Realizado
+2025-06-15,Saída,Marketing,Pgto - Limpeza Ltda,519.43,Cartão Crédito,Realizado
+2025-06-16,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,7849.94,Pix,Realizado
+2025-06-17,Saída,Serviços Terceiros,Pgto - AWS Services,1185.74,Cartão Crédito,Realizado
+2025-06-18,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,2536.29,Cartão Crédito,Realizado
+2025-06-19,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,5198.09,Cartão Crédito,Realizado
+2025-06-20,Saída,Impostos,DAS Simples Nacional,3050.77,Boleto,Realizado
+2025-06-20,Entrada,Consultoria Mensal,Serviço - Padaria Central,4776.05,Pix,Realizado
+2025-06-20,Saída,Marketing,Pgto - Limpeza Ltda,1040.65,Cartão Crédito,Realizado
+2025-06-26,Saída,Marketing,Pgto - Imobiliária Predial,137.15,Cartão Crédito,Realizado
+2025-06-26,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,2564.61,Boleto,Realizado
+2025-06-27,Entrada,Manutenção Técnica,Serviço - Padaria Central,7695.59,Boleto,Realizado
+2025-06-28,Entrada,Implementação de Projeto,Serviço - Padaria Central,6327.44,Boleto,Realizado
+2025-06-29,Entrada,Consultoria Mensal,Serviço - StartUp X,12012.8,Boleto,Realizado
+2025-06-30,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,1603.07,Pix,Realizado
+2025-07-01,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,295.1,Cartão Crédito,Pendente
+2025-07-02,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,481.23,Cartão Crédito,Realizado
+2025-07-03,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3577.72,Pix,Realizado
+2025-07-04,Saída,Serviços Terceiros,Pgto - Google Ads,296.03,Cartão Crédito,Realizado
+2025-07-05,Saída,Folha de Pagamento,Salários Equipe,17546.71,Transferência,Realizado
+2025-07-07,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,5420.94,Boleto,Realizado
+2025-07-07,Saída,Software/SaaS,Pgto - Governo (Impostos),944.41,Cartão Crédito,Realizado
+2025-07-08,Entrada,Manutenção Técnica,Serviço - TechSolutions,2318.65,Cartão Crédito,Realizado
+2025-07-09,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,10243.02,Pix,Realizado
+2025-07-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-07-10,Entrada,Implementação de Projeto,Serviço - TechSolutions,6526.56,Cartão Crédito,Realizado
+2025-07-11,Saída,Marketing,Pgto - Google Ads,205.19,Cartão Crédito,Realizado
+2025-07-13,Entrada,Manutenção Técnica,Serviço - Padaria Central,6129.47,Boleto,Realizado
+2025-07-13,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,540.44,Cartão Crédito,Pendente
+2025-07-15,Saída,Serviços Terceiros,Pgto - Governo (Impostos),1441.44,Cartão Crédito,Realizado
+2025-07-19,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,4325.24,Pix,Realizado
+2025-07-20,Saída,Impostos,DAS Simples Nacional,4830.98,Boleto,Realizado
+2025-07-20,Entrada,Manutenção Técnica,Serviço - TechSolutions,4586.23,Boleto,Realizado
+2025-07-21,Saída,Serviços Terceiros,Pgto - AWS Services,737.2,Cartão Crédito,Realizado
+2025-07-25,Entrada,Consultoria Mensal,Serviço - TechSolutions,2554.99,Boleto,Realizado
+2025-07-27,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1074.11,Boleto,Realizado
+2025-07-27,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,637.55,Cartão Crédito,Pendente
+2025-07-28,Entrada,Implementação de Projeto,Serviço - Padaria Central,5372.58,Pix,Realizado
+2025-07-29,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,2523.93,Cartão Crédito,Realizado
+2025-07-30,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,1351.2,Boleto,Realizado
+2025-07-30,Saída,Marketing,Pgto - Governo (Impostos),158.93,Cartão Crédito,Pendente
+2025-07-31,Entrada,Manutenção Técnica,Serviço - StartUp X,2455.12,Boleto,Realizado
+2025-07-31,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,923.98,Cartão Crédito,Realizado
+2025-08-02,Saída,Marketing,Pgto - Limpeza Ltda,662.21,Cartão Crédito,Realizado
+2025-08-03,Saída,Software/SaaS,Pgto - Google Ads,347.14,Cartão Crédito,Realizado
+2025-08-05,Saída,Folha de Pagamento,Salários Equipe,18422.22,Transferência,Realizado
+2025-08-05,Entrada,Consultoria Mensal,Serviço - TechSolutions,11431.25,Cartão Crédito,Realizado
+2025-08-06,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,3172.35,Pix,Realizado
+2025-08-07,Entrada,Consultoria Mensal,Serviço - TechSolutions,1760.1,Boleto,Realizado
+2025-08-08,Entrada,Consultoria Mensal,Serviço - Padaria Central,1956.32,Cartão Crédito,Pendente
+2025-08-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-08-10,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,671.83,Cartão Crédito,Realizado
+2025-08-12,Entrada,Consultoria Mensal,Serviço - Padaria Central,1746.09,Pix,Realizado
+2025-08-13,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,3692.46,Boleto,Realizado
+2025-08-15,Saída,Marketing,Pgto - Governo (Impostos),320.28,Cartão Crédito,Realizado
+2025-08-18,Entrada,Consultoria Mensal,Serviço - Varejo Bom Preço,7382.64,Cartão Crédito,Realizado
+2025-08-18,Saída,Marketing,Pgto - Limpeza Ltda,1247.93,Cartão Crédito,Realizado
+2025-08-19,Entrada,Consultoria Mensal,Serviço - Padaria Central,3437.02,Cartão Crédito,Realizado
+2025-08-19,Saída,Marketing,Pgto - Google Ads,557.01,Cartão Crédito,Realizado
+2025-08-20,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,6122.47,Boleto,Realizado
+2025-08-20,Saída,Impostos,DAS Simples Nacional,3753.39,Boleto,Realizado
+2025-08-22,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,5203.6,Cartão Crédito,Realizado
+2025-08-24,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1232.89,Boleto,Pendente
+2025-08-25,Saída,Serviços Terceiros,Pgto - Governo (Impostos),1161.57,Cartão Crédito,Realizado
+2025-08-26,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,3012.06,Boleto,Realizado
+2025-08-26,Saída,Marketing,Pgto - Imobiliária Predial,755.96,Cartão Crédito,Realizado
+2025-08-27,Entrada,Manutenção Técnica,Serviço - Padaria Central,5751.45,Boleto,Realizado
+2025-08-27,Saída,Serviços Terceiros,Pgto - Google Ads,283.87,Cartão Crédito,Pendente
+2025-08-28,Entrada,Manutenção Técnica,Serviço - Padaria Central,4942.15,Boleto,Realizado
+2025-08-29,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,2160.27,Boleto,Realizado
+2025-08-29,Saída,Software/SaaS,Pgto - Dell Computadores,1012.33,Cartão Crédito,Realizado
+2025-08-30,Saída,Marketing,Pgto - Imobiliária Predial,1316.07,Cartão Crédito,Realizado
+2025-09-01,Entrada,Implementação de Projeto,Serviço - StartUp X,1099.2,Cartão Crédito,Realizado
+2025-09-02,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,3736.35,Boleto,Realizado
+2025-09-02,Saída,Marketing,Pgto - Governo (Impostos),1012.13,Cartão Crédito,Realizado
+2025-09-03,Entrada,Consultoria Mensal,Serviço - TechSolutions,13472.12,Boleto,Realizado
+2025-09-05,Saída,Folha de Pagamento,Salários Equipe,18607.58,Transferência,Realizado
+2025-09-07,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,1325.4,Boleto,Realizado
+2025-09-08,Saída,Software/SaaS,Pgto - Google Ads,557.05,Cartão Crédito,Realizado
+2025-09-09,Entrada,Implementação de Projeto,Serviço - StartUp X,1101.3,Boleto,Realizado
+2025-09-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-09-10,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,4544.62,Cartão Crédito,Realizado
+2025-09-11,Entrada,Implementação de Projeto,Serviço - TechSolutions,7796.48,Pix,Realizado
+2025-09-14,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,6059.36,Boleto,Realizado
+2025-09-15,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,1537.38,Boleto,Realizado
+2025-09-15,Saída,Marketing,Pgto - Imobiliária Predial,323.36,Cartão Crédito,Realizado
+2025-09-17,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,5677.64,Boleto,Realizado
+2025-09-17,Saída,Marketing,Pgto - Imobiliária Predial,1494.87,Cartão Crédito,Realizado
+2025-09-18,Entrada,Implementação de Projeto,Serviço - Padaria Central,4420.44,Cartão Crédito,Realizado
+2025-09-19,Entrada,Consultoria Mensal,Serviço - Varejo Bom Preço,10715.75,Pix,Realizado
+2025-09-20,Saída,Impostos,DAS Simples Nacional,4975.3,Boleto,Realizado
+2025-09-20,Entrada,Implementação de Projeto,Serviço - TechSolutions,7052.93,Pix,Realizado
+2025-09-23,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,2334.88,Boleto,Realizado
+2025-09-24,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,4774.49,Boleto,Realizado
+2025-09-25,Entrada,Consultoria Mensal,Serviço - Padaria Central,6780.37,Boleto,Realizado
+2025-09-27,Saída,Marketing,Pgto - Google Ads,1012.97,Cartão Crédito,Realizado
+2025-09-28,Saída,Marketing,Pgto - Imobiliária Predial,923.78,Cartão Crédito,Realizado
+2025-09-29,Entrada,Implementação de Projeto,Serviço - Padaria Central,2205.42,Boleto,Realizado
+2025-10-01,Entrada,Consultoria Mensal,Serviço - StartUp X,2335.35,Cartão Crédito,Realizado
+2025-10-02,Entrada,Manutenção Técnica,Serviço - StartUp X,6576.98,Cartão Crédito,Realizado
+2025-10-03,Entrada,Manutenção Técnica,Serviço - TechSolutions,13958.39,Pix,Realizado
+2025-10-03,Saída,Software/SaaS,Pgto - Governo (Impostos),270.95,Cartão Crédito,Realizado
+2025-10-04,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3123.17,Pix,Realizado
+2025-10-05,Saída,Folha de Pagamento,Salários Equipe,18371.04,Transferência,Realizado
+2025-10-05,Entrada,Consultoria Mensal,Serviço - Padaria Central,2170.83,Cartão Crédito,Realizado
+2025-10-06,Entrada,Manutenção Técnica,Serviço - StartUp X,4297.62,Boleto,Realizado
+2025-10-07,Entrada,Consultoria Mensal,Serviço - Varejo Bom Preço,4357.36,Pix,Realizado
+2025-10-07,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,428.39,Cartão Crédito,Realizado
+2025-10-09,Entrada,Consultoria Mensal,Serviço - Varejo Bom Preço,1053.01,Boleto,Realizado
+2025-10-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-10-10,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,9018.72,Pix,Realizado
+2025-10-11,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,4160.05,Boleto,Pendente
+2025-10-11,Saída,Marketing,Pgto - Google Ads,1468.04,Cartão Crédito,Realizado
+2025-10-14,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,2188.18,Boleto,Realizado
+2025-10-15,Entrada,Implementação de Projeto,Serviço - TechSolutions,7095.4,Boleto,Realizado
+2025-10-20,Saída,Impostos,DAS Simples Nacional,3029.33,Boleto,Realizado
+2025-10-20,Saída,Software/SaaS,Pgto - Limpeza Ltda,999.61,Cartão Crédito,Realizado
+2025-10-23,Saída,Marketing,Pgto - Dell Computadores,308.59,Cartão Crédito,Realizado
+2025-10-24,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3391.62,Cartão Crédito,Realizado
+2025-10-25,Entrada,Manutenção Técnica,Serviço - Padaria Central,7810.77,Pix,Realizado
+2025-10-26,Saída,Serviços Terceiros,Pgto - Governo (Impostos),498.82,Cartão Crédito,Realizado
+2025-10-26,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,2957.07,Boleto,Realizado
+2025-10-29,Entrada,Implementação de Projeto,Serviço - TechSolutions,2601.0,Cartão Crédito,Realizado
+2025-10-30,Saída,Marketing,Pgto - AWS Services,513.39,Cartão Crédito,Realizado
+2025-11-01,Entrada,Consultoria Mensal,Serviço - StartUp X,6074.36,Boleto,Realizado
+2025-11-01,Saída,Marketing,Pgto - Limpeza Ltda,993.18,Cartão Crédito,Realizado
+2025-11-03,Entrada,Consultoria Mensal,Serviço - Varejo Bom Preço,2342.48,Boleto,Realizado
+2025-11-05,Saída,Folha de Pagamento,Salários Equipe,18514.42,Transferência,Realizado
+2025-11-05,Saída,Marketing,Pgto - Google Ads,693.52,Cartão Crédito,Realizado
+2025-11-06,Saída,Marketing,Pgto - Imobiliária Predial,234.0,Cartão Crédito,Realizado
+2025-11-07,Saída,Marketing,Pgto - Google Ads,647.27,Cartão Crédito,Realizado
+2025-11-08,Saída,Serviços Terceiros,Pgto - AWS Services,1073.2,Cartão Crédito,Realizado
+2025-11-10,Saída,Software/SaaS,Pgto - Limpeza Ltda,245.75,Cartão Crédito,Realizado
+2025-11-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-11-11,Entrada,Consultoria Mensal,Serviço - Padaria Central,1248.25,Cartão Crédito,Realizado
+2025-11-12,Entrada,Consultoria Mensal,Serviço - Padaria Central,3880.38,Boleto,Realizado
+2025-11-12,Saída,Software/SaaS,Pgto - AWS Services,996.24,Cartão Crédito,Realizado
+2025-11-13,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,2831.16,Boleto,Pendente
+2025-11-15,Entrada,Implementação de Projeto,Serviço - StartUp X,1186.08,Pix,Realizado
+2025-11-16,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3302.5,Pix,Realizado
+2025-11-16,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,521.19,Cartão Crédito,Realizado
+2025-11-17,Entrada,Consultoria Mensal,Serviço - Padaria Central,1496.1,Pix,Realizado
+2025-11-17,Saída,Serviços Terceiros,Pgto - Google Ads,459.87,Cartão Crédito,Realizado
+2025-11-18,Saída,Marketing,Pgto - AWS Services,188.35,Cartão Crédito,Realizado
+2025-11-19,Entrada,Consultoria Mensal,Serviço - TechSolutions,2275.42,Pix,Realizado
+2025-11-20,Saída,Impostos,DAS Simples Nacional,3894.41,Boleto,Realizado
+2025-11-23,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,9003.4,Boleto,Realizado
+2025-11-25,Entrada,Consultoria Mensal,Serviço - Cliente Avulso,1714.7,Cartão Crédito,Realizado
+2025-11-25,Saída,Software/SaaS,Pgto - Limpeza Ltda,1072.93,Cartão Crédito,Pendente
+2025-11-27,Entrada,Manutenção Técnica,Serviço - StartUp X,6941.82,Boleto,Realizado
+2025-11-30,Saída,Marketing,Pgto - Dell Computadores,769.53,Cartão Crédito,Realizado
+2025-12-01,Saída,Serviços Terceiros,Pgto - Limpeza Ltda,932.01,Cartão Crédito,Realizado
+2025-12-02,Entrada,Manutenção Técnica,Serviço - Padaria Central,6720.47,Boleto,Realizado
+2025-12-03,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,3493.38,Pix,Realizado
+2025-12-04,Entrada,Manutenção Técnica,Serviço - TechSolutions,4562.68,Cartão Crédito,Realizado
+2025-12-04,Saída,Software/SaaS,Pgto - Imobiliária Predial,1195.77,Cartão Crédito,Realizado
+2025-12-05,Saída,Folha de Pagamento,Salários Equipe,18284.9,Transferência,Realizado
+2025-12-06,Saída,Marketing,Pgto - Dell Computadores,425.7,Cartão Crédito,Realizado
+2025-12-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Realizado
+2025-12-11,Entrada,Implementação de Projeto,Serviço - Padaria Central,2468.56,Cartão Crédito,Realizado
+2025-12-12,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,1902.56,Boleto,Realizado
+2025-12-13,Entrada,Consultoria Mensal,Serviço - Padaria Central,6392.79,Pix,Realizado
+2025-12-14,Entrada,Manutenção Técnica,Serviço - StartUp X,1348.71,Cartão Crédito,Realizado
+2025-12-14,Saída,Software/SaaS,Pgto - Dell Computadores,308.93,Cartão Crédito,Realizado
+2025-12-15,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,4164.17,Pix,Realizado
+2025-12-18,Entrada,Consultoria Mensal,Serviço - StartUp X,4495.55,Pix,Realizado
+2025-12-18,Saída,Marketing,Pgto - Dell Computadores,1362.47,Cartão Crédito,Realizado
+2025-12-20,Saída,Impostos,DAS Simples Nacional,4273.34,Boleto,Realizado
+2025-12-20,Saída,Serviços Terceiros,Pgto - Governo (Impostos),825.77,Cartão Crédito,Realizado
+2025-12-22,Saída,Marketing,Pgto - AWS Services,149.8,Cartão Crédito,Realizado
+2025-12-22,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,1265.81,Pix,Realizado
+2025-12-25,Entrada,Implementação de Projeto,Serviço - Padaria Central,2593.75,Boleto,Realizado
+2025-12-25,Saída,Marketing,Pgto - Google Ads,129.32,Cartão Crédito,Pendente
+2025-12-26,Saída,Software/SaaS,Pgto - Google Ads,457.58,Cartão Crédito,Realizado
+2025-12-27,Saída,Marketing,Pgto - Dell Computadores,1455.88,Cartão Crédito,Realizado
+2025-12-31,Entrada,Manutenção Técnica,Serviço - Varejo Bom Preço,2238.68,Pix,Realizado
+2026-01-01,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,3847.52,Pix,Realizado
+2026-01-02,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,15644.91,Cartão Crédito,Realizado
+2026-01-02,Saída,Marketing,Pgto - Governo (Impostos),861.62,Cartão Crédito,Realizado
+2026-01-04,Saída,Software/SaaS,Pgto - Limpeza Ltda,175.4,Cartão Crédito,Pendente
+2026-01-05,Saída,Folha de Pagamento,Salários Equipe,17952.81,Transferência,Realizado
+2026-01-06,Entrada,Consultoria Mensal,Serviço - StartUp X,3114.76,Boleto,Realizado
+2026-01-07,Saída,Marketing,Pgto - Limpeza Ltda,891.03,Cartão Crédito,Realizado
+2026-01-09,Entrada,Consultoria Mensal,Serviço - TechSolutions,2857.22,Cartão Crédito,Pendente
+2026-01-09,Saída,Software/SaaS,Pgto - AWS Services,662.09,Cartão Crédito,Realizado
+2026-01-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Previsto
+2026-01-11,Saída,Marketing,Pgto - Google Ads,597.54,Cartão Crédito,Previsto
+2026-01-12,Saída,Software/SaaS,Pgto - Dell Computadores,1165.39,Cartão Crédito,Previsto
+2026-01-13,Saída,Marketing,Pgto - Dell Computadores,1441.3,Cartão Crédito,Previsto
+2026-01-14,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,1483.63,Pix,Previsto
+2026-01-14,Saída,Software/SaaS,Pgto - Limpeza Ltda,639.53,Cartão Crédito,Previsto
+2026-01-16,Entrada,Implementação de Projeto,Serviço - Padaria Central,4568.42,Boleto,Previsto
+2026-01-16,Saída,Marketing,Pgto - Dell Computadores,353.85,Cartão Crédito,Previsto
+2026-01-17,Entrada,Implementação de Projeto,Serviço - Padaria Central,7220.68,Cartão Crédito,Previsto
+2026-01-17,Saída,Serviços Terceiros,Pgto - Dell Computadores,911.98,Cartão Crédito,Previsto
+2026-01-20,Saída,Impostos,DAS Simples Nacional,3539.64,Boleto,Previsto
+2026-01-21,Entrada,Implementação de Projeto,Serviço - Padaria Central,1181.01,Boleto,Previsto
+2026-01-23,Entrada,Manutenção Técnica,Serviço - TechSolutions,1478.58,Pix,Previsto
+2026-01-23,Saída,Serviços Terceiros,Pgto - Dell Computadores,408.86,Cartão Crédito,Previsto
+2026-01-26,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,4033.27,Boleto,Previsto
+2026-01-28,Saída,Software/SaaS,Pgto - AWS Services,891.77,Cartão Crédito,Previsto
+2026-01-29,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,4614.44,Boleto,Previsto
+2026-01-29,Saída,Marketing,Pgto - Imobiliária Predial,825.31,Cartão Crédito,Previsto
+2026-01-30,Saída,Serviços Terceiros,Pgto - Governo (Impostos),701.52,Cartão Crédito,Previsto
+2026-01-31,Saída,Software/SaaS,Pgto - Governo (Impostos),1223.7,Cartão Crédito,Previsto
+2026-02-02,Entrada,Consultoria Mensal,Serviço - Consultório Dra. Ana,8027.51,Pix,Previsto
+2026-02-02,Saída,Software/SaaS,Pgto - Dell Computadores,180.19,Cartão Crédito,Previsto
+2026-02-03,Saída,Software/SaaS,Pgto - Limpeza Ltda,179.88,Cartão Crédito,Previsto
+2026-02-03,Entrada,Consultoria Mensal,Serviço - StartUp X,2526.66,Pix,Previsto
+2026-02-04,Entrada,Implementação de Projeto,Serviço - StartUp X,1850.99,Boleto,Previsto
+2026-02-04,Saída,Software/SaaS,Pgto - Google Ads,1163.16,Cartão Crédito,Previsto
+2026-02-05,Saída,Folha de Pagamento,Salários Equipe,17957.05,Transferência,Previsto
+2026-02-05,Saída,Serviços Terceiros,Pgto - Dell Computadores,782.6,Cartão Crédito,Previsto
+2026-02-07,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,2135.84,Boleto,Previsto
+2026-02-08,Entrada,Manutenção Técnica,Serviço - StartUp X,4270.06,Cartão Crédito,Previsto
+2026-02-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Previsto
+2026-02-11,Saída,Marketing,Pgto - Google Ads,1115.22,Cartão Crédito,Previsto
+2026-02-12,Entrada,Consultoria Mensal,Serviço - StartUp X,11727.22,Pix,Previsto
+2026-02-12,Saída,Serviços Terceiros,Pgto - AWS Services,311.75,Cartão Crédito,Previsto
+2026-02-13,Saída,Serviços Terceiros,Pgto - Google Ads,665.57,Cartão Crédito,Previsto
+2026-02-13,Entrada,Consultoria Mensal,Serviço - TechSolutions,4453.71,Pix,Previsto
+2026-02-15,Saída,Software/SaaS,Pgto - Governo (Impostos),1285.69,Cartão Crédito,Previsto
+2026-02-16,Entrada,Implementação de Projeto,Serviço - TechSolutions,4273.61,Boleto,Previsto
+2026-02-17,Entrada,Manutenção Técnica,Serviço - Cliente Avulso,4157.82,Boleto,Previsto
+2026-02-18,Entrada,Manutenção Técnica,Serviço - TechSolutions,1160.06,Pix,Previsto
+2026-02-18,Saída,Software/SaaS,Pgto - Dell Computadores,562.3,Cartão Crédito,Previsto
+2026-02-19,Saída,Software/SaaS,Pgto - Dell Computadores,1328.96,Cartão Crédito,Previsto
+2026-02-20,Saída,Impostos,DAS Simples Nacional,4741.16,Boleto,Previsto
+2026-02-20,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,2800.28,Pix,Previsto
+2026-02-20,Saída,Software/SaaS,Pgto - Imobiliária Predial,191.29,Cartão Crédito,Previsto
+2026-02-22,Entrada,Manutenção Técnica,Serviço - StartUp X,1334.38,Pix,Previsto
+2026-02-23,Entrada,Implementação de Projeto,Serviço - Consultório Dra. Ana,2745.2,Pix,Previsto
+2026-02-25,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,8398.49,Boleto,Previsto
+2026-02-26,Entrada,Manutenção Técnica,Serviço - Consultório Dra. Ana,6838.49,Boleto,Previsto
+2026-02-26,Saída,Marketing,Pgto - Governo (Impostos),809.87,Cartão Crédito,Previsto
+2026-02-28,Entrada,Implementação de Projeto,Serviço - Cliente Avulso,5807.29,Cartão Crédito,Previsto
+2026-03-04,Saída,Serviços Terceiros,Pgto - Imobiliária Predial,1334.7,Cartão Crédito,Previsto
+2026-03-05,Saída,Folha de Pagamento,Salários Equipe,18593.69,Transferência,Previsto
+2026-03-06,Entrada,Consultoria Mensal,Serviço - Padaria Central,4944.67,Pix,Previsto
+2026-03-08,Entrada,Consultoria Mensal,Serviço - StartUp X,2911.25,Pix,Previsto
+2026-03-08,Saída,Software/SaaS,Pgto - AWS Services,1246.96,Cartão Crédito,Previsto
+2026-03-09,Entrada,Implementação de Projeto,Serviço - Varejo Bom Preço,1359.54,Pix,Previsto
+2026-03-09,Saída,Marketing,Pgto - Imobiliária Predial,298.76,Cartão Crédito,Previsto
+2026-03-10,Saída,Aluguel,Aluguel Escritório,3500.0,Boleto,Previsto
+2026-03-10,Entrada,Manutenção Técnica,Serviço - TechSolutions,5144.83,Boleto,Previsto
